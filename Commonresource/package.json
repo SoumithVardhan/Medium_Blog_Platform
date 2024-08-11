@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "zod": "^3.23.8"
+  },
+  "name": "@soumithvardhan/medium-commonresource",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
